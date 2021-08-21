@@ -3,7 +3,7 @@
 
 ---
 
-<img src="https://sat02pap001files.storage.live.com/y4myv7fEoTTnjl4QbIqN7XdAiI27S8fFNMc8sh6wbSYs_M4ZRGVhWf7N-82VTPpTEGTBK17v8FWz3QBWl-Svb8GBgqZzkY67FUkf6OmKbltX2BbE5kHNFrIauHVUZvB7G2hQRF9ArLBJKGiEghqX_e6-Q9bYBiVTZM2QIPOiFQ-N8ZMa106aZDoLB3MwluhHByU?width=600&height=384&cropmode=none" width="600" height="384" />
+<img src="https://drive.google.com/file/d/uc?export=view&id=1Lncw6BHK9Hp5IPjH8Y_FB7P_jIlVkVYW" width="600" height="384" />
 
 
 
