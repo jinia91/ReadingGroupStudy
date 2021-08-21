@@ -3,6 +3,10 @@
 
 ---
 
+<img src="https://sat02pap001files.storage.live.com/y4myv7fEoTTnjl4QbIqN7XdAiI27S8fFNMc8sh6wbSYs_M4ZRGVhWf7N-82VTPpTEGTBK17v8FWz3QBWl-Svb8GBgqZzkY67FUkf6OmKbltX2BbE5kHNFrIauHVUZvB7G2hQRF9ArLBJKGiEghqX_e6-Q9bYBiVTZM2QIPOiFQ-N8ZMa106aZDoLB3MwluhHByU?width=600&height=384&cropmode=none" width="600" height="384" />
+
+
+
 <h2 id="협력하는-객체들의-공동체">1. 협력하는 객체들의 공동체</h2>
 <h3 id="객체지향이란">객체지향이란</h3>
 <p>객체 지향이란, 시스템을 <strong>1)상호작용하는 2)자율적인 객체들의 공동체</strong>로 바라보고, 객체를 이용해 시스템을 분할하는 방법론을 의미한다.</p>
