@@ -1,4 +1,3 @@
-package calculator;
 
 import java.awt.BorderLayout;
 import java.awt.Font;
@@ -17,7 +16,7 @@ class Calculator extends JFrame implements ActionListener {
 	private JTextField display;
 	private JButton[] buttons;
 	private String[] labels = { "+", "-", "x", "/", "=", "C" };
-	private double result; 
+	private double result;
 	private double number;
 	private String operator;
 	private boolean firstFlag = true;
@@ -25,37 +24,32 @@ class Calculator extends JFrame implements ActionListener {
 	public Calculator() {
 
 		display = new JTextField(30);
+		display.setText("");
 
 		Font bigFont = display.getFont().deriveFont(Font.PLAIN, 25f);
 		display.setFont(bigFont);
 
 		panel = new JPanel();
 
-		display.setText("");
-
 		panel.setLayout(new GridLayout(0, 2, 10, 10));
 
 		buttons = new JButton[6];
-
+		
 		int index = 0;
 
-		for (int rows = 0; rows < 1; rows++) {
+		for (int i = 0; i < 6; i++) {
 
-			for (int cols = 0; cols < 6; cols++) {
+			buttons[index] = new JButton(labels[index]);
 
-				buttons[index] = new JButton(labels[index]);
+			panel.add(buttons[index]);
 
-				panel.add(buttons[index]);
+			buttons[index].addActionListener(this);
 
-				buttons[index].addActionListener(this);
-
-				index++;
-			}
+			index++;
 		}
 
 		add(display, BorderLayout.NORTH);
 		add(panel, BorderLayout.CENTER);
-
 		setVisible(true);
 		pack();
 
@@ -73,7 +67,22 @@ class Calculator extends JFrame implements ActionListener {
 
 		if (button.getActionCommand().equals("=") && firstFlag) {
 
-			calculate(number);
+			if (operator.equals("+"))
+				result += number;
+
+			else if (operator.equals("-"))
+				result -= number;
+
+			else if (operator.equals("x"))
+
+				result *= number;
+
+			else if (operator.equals("/"))
+
+				result /= number;
+
+			display.setText("" + result);
+
 			return;
 		}
 
@@ -93,30 +102,26 @@ class Calculator extends JFrame implements ActionListener {
 
 		else {
 
-			calculate(number);
+			if (operator.equals("+"))
+				result += number;
+
+			else if (operator.equals("-"))
+				result -= number;
+
+			else if (operator.equals("x"))
+
+				result *= number;
+
+			else if (operator.equals("/"))
+
+				result /= number;
+
+			display.setText("" + result);
 
 			firstFlag = true;
+		
 		}
 	}
 
-	private void calculate(double n) {
-
-		if (operator.equals("+"))
-			result += n;
-
-		else if (operator.equals("-"))
-			result -= n;
-
-		else if (operator.equals("x"))
-
-			result *= n;
-
-		else if (operator.equals("/"))
-
-			result /= n;
-
-		display.setText("" + result);
-
-	}
 
 }
