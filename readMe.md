@@ -3,6 +3,13 @@
 
 ---
 
+<h2 id="스터디-일지">스터디 일지</h2>
+<p>1주차 : 발표자 Albireo3754</p>
+<ul>
+<li>발표자료: <a href="https://albi-tech.tistory.com/5"></a><a href="https://albi-tech.tistory.com/5">https://albi-tech.tistory.com/5</a></li>
+<li>과제 코드: <a href="https://albi-tech.tistory.com/6"></a><a href="https://albi-tech.tistory.com/6">https://albi-tech.tistory.com/6</a></li>
+</ul>
+<h2 id="section"></h2>
 <p><img src="https://user-images.githubusercontent.com/85499582/130334275-c14f1ae5-3953-4f29-8274-447b8e7df7bf.gif" alt="calculatorver_0 1"></p>
 <h2 id="스터디-과제-계산기-만들기">0. 스터디 과제 계산기 만들기</h2>
 <h3 id="주차--러프하게-기능만-구현하기">1주차 : 러프하게 기능만 구현하기</h3>
@@ -71,5 +78,5 @@
 <p>메세지를 수신하고 이에 응답해 행동하며 그 행동은 자율적으로 개체 혹은 사물 자신의 상태를 변화시키고 다시 다른 개체 혹은 사물에게 메세지를 전송한다.</p>
 <p>응답과 요청, 메시지의 수신과 송신, 행동과 상태변화의 무수한 반복을 통해 하나의 큰 협력을 이루고 협력은 시스템이 되어 우리가 만드는 앱이된다.</p>
 <p>객체 지향의 설계는 이러한 의인화된 시스템을 창조하는 과정이다.</p>
-<h2 id="section"></h2>
+<h2 id="section-1"></h2>
 
