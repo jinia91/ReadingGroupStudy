@@ -4,7 +4,7 @@
 ---
 
 <h2 id="스터디-일지">스터디 일지</h2>
-<p>1주차 : 발표자 Albireo3754</p>
+<p>1주차 : 발표자 Albireo3754 (2021.08.16~2021.08.22)</p>
 <ul>
 <li>발표자료: <a href="https://albi-tech.tistory.com/5"></a><a href="https://albi-tech.tistory.com/5">https://albi-tech.tistory.com/5</a></li>
 <li>과제 코드: <a href="https://albi-tech.tistory.com/6"></a><a href="https://albi-tech.tistory.com/6">https://albi-tech.tistory.com/6</a></li>
