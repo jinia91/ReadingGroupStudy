@@ -9,6 +9,14 @@
 <li>발표자료: <a href="https://albi-tech.tistory.com/5"></a><a href="https://albi-tech.tistory.com/5">https://albi-tech.tistory.com/5</a></li>
 <li>과제 코드: <a href="https://albi-tech.tistory.com/6"></a><a href="https://albi-tech.tistory.com/6">https://albi-tech.tistory.com/6</a></li>
 </ul>
+<p>2주차 : 3챕터 발표자 jinia91(나)</p>
+<ul>
+<li>발표자료 / 과제코드 : 본 지면으로 사용</li>
+</ul>
+<p>2주차 : 4챕터 발표자 자스어린이</p>
+<ul>
+<li><a href="https://material-hurricane-4fa.notion.site/7a82c47919d142feb2af24ba2e7c78e3">발표자료 링크</a></li>
+</ul>
 <h2 id="section"></h2>
 <p><img src="https://user-images.githubusercontent.com/85499582/130334275-c14f1ae5-3953-4f29-8274-447b8e7df7bf.gif" alt="calculatorver_0 1"></p>
 <h2 id="스터디-과제-계산기-만들기">0. 스터디 과제 계산기 만들기</h2>
