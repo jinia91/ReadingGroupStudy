@@ -9,7 +9,7 @@
 <li>발표자료: <a href="https://albi-tech.tistory.com/5"></a><a href="https://albi-tech.tistory.com/5">https://albi-tech.tistory.com/5</a></li>
 <li>과제 코드: <a href="https://albi-tech.tistory.com/6"></a><a href="https://albi-tech.tistory.com/6">https://albi-tech.tistory.com/6</a></li>
 </ul>
-<p>2주차 : 3챕터 발표자 jinia91(나)</p>
+<p>2주차 : 3챕터 발표자 jinia91(나)(2021.08.23~2021.08.29)</p>
 <ul>
 <li>발표자료 / 과제코드 : 본 지면으로 사용</li>
 </ul>
