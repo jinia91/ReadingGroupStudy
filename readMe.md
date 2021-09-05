@@ -9,13 +9,25 @@
 <li>발표자료: <a href="https://albi-tech.tistory.com/5"></a><a href="https://albi-tech.tistory.com/5">https://albi-tech.tistory.com/5</a></li>
 <li>과제 코드: <a href="https://albi-tech.tistory.com/6"></a><a href="https://albi-tech.tistory.com/6">https://albi-tech.tistory.com/6</a></li>
 </ul>
-<p>2주차 : 3챕터 발표자 jinia91(나)</p>
+<p>2주차 : 3챕터 발표자 jinia91(나)<br>
+(2021.08.22~2021.08.29)</p>
 <ul>
 <li>발표자료 / 과제코드 : 본 지면으로 사용</li>
 </ul>
-<p>2주차 : 4챕터 발표자 자스어린이</p>
+<p>2주차 : 4챕터 발표자 자스어린이<br>
+(2021.08.22~2021.08.29)</p>
 <ul>
 <li><a href="https://material-hurricane-4fa.notion.site/7a82c47919d142feb2af24ba2e7c78e3">발표자료 링크</a></li>
+</ul>
+<p>3주차 : 5챕터 발표자 캐프붕<br>
+(2021.08.29~2021.09.05)</p>
+<ul>
+<li>발표자료 미기입</li>
+</ul>
+<p>3주차 : 6챕터 발표자 신입전향<br>
+(2021.08.29~2021.09.05)</p>
+<ul>
+<li>발표자료 미기입</li>
 </ul>
 <h2 id="section"></h2>
 <p><img src="https://user-images.githubusercontent.com/85499582/130334275-c14f1ae5-3953-4f29-8274-447b8e7df7bf.gif" alt="calculatorver_0 1"></p>
@@ -257,7 +269,7 @@ CONTROLLER: 요청이 들어올때, 해당 요청을 수행할 비지니스 로�
 <blockquote>
 <p>Service interface 와 service impl 관계처럼 모든 역할은 메시지를 수신할 껍데기인 인터페이스와 메시지의 책임을 수행할 구현체로 분리가능하다! 이때 컨트롤러는 서비스 인터페이스를 바라보며, SOLID 원칙에서 의존의 역전 원칙(DIP)을 준수하게된다. 이를 구현체를 캡슐화한다고 표현하기도한다.</p>
 </blockquote>
-<h2 id="객체-지도">6. 객체 지도</h2>
+<h2 id="객체-지도">객체 지도</h2>
 <p>소프트웨어 분야에서 예외가 없는 유일한 규칙은 요구사항이 항상 변경된다는 것이다. 변경에 발맞춰 빠르게 요구사항을 충족시키기 위해서는 좋은 설계가 뒷받침 되야 하고, 좋은 설계는 좋은 구조를 통해 이루어 진다.</p>
 <p>객체지향에서 설계를 할때 가장 우선시되는것은 안정적인 객체 구조를 만들고 그 구조하에서 시스템 기능을 책임으로 나누어 객체에 분배하는 방식이다. 따라서 객체지향 설계를 제대로 해내기 위해서는 객체지향 설계의 대표적인 구조(모델)들을 알아보고 이해할 필요가 있다.</p>
 <h3 id="도메인-모델--도메인-주도-설계ddd">도메인 모델 / 도메인 주도 설계(DDD)</h3>
