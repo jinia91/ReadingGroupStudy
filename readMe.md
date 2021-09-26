@@ -3,7 +3,7 @@
 
 ---
 
-<h2 id="스터디-일지">스터디 일지</h2>
+<h2 id="스터디-일지8.169.26-종료">스터디 일지(8.16~9.26 종료)</h2>
 <p>1주차 : 발표자 Albireo3754 (2021.08.16~2021.08.22)</p>
 <ul>
 <li>발표자료: <a href="https://albi-tech.tistory.com/5"></a><a href="https://albi-tech.tistory.com/5">https://albi-tech.tistory.com/5</a></li>
@@ -29,10 +29,15 @@
 <ul>
 <li>발표자료 미기입</li>
 </ul>
+<p>4주차 : 7챕터 발표자 : InseobJeon<br>
+(백신접종과 추석연휴로 연기~2021.09.26)</p>
+<ul>
+<li>발표자료 : <a href="https://github.com/InseobJeon/facts-and-myths-about-oo/tree/master/chapter-7">https://github.com/InseobJeon/facts-and-myths-about-oo/tree/master/chapter-7</a></li>
+</ul>
 <h2 id="section"></h2>
 <p><img src="https://user-images.githubusercontent.com/85499582/130334275-c14f1ae5-3953-4f29-8274-447b8e7df7bf.gif" alt="calculatorver_0 1"></p>
 <h2 id="스터디-과제-계산기-만들기">0. 스터디 과제 계산기 만들기</h2>
-<h3 id="주차--러프하게-기능만-구현하기">1주차 : 러프하게 기능만 구현하기</h3>
+<h3 id="러프하게-기능만-구현하기">1: 러프하게 기능만 구현하기</h3>
 <h4 id="현재-코드의-문제점">현재 코드의 문제점</h4>
 <ol>
 <li>
@@ -57,8 +62,8 @@
 <p>사칙연산과 같은 로직들은 if-else if방식이 아닌 전략패턴을 적용하여 캡슐화하고 추상화를 통해 기능확장의 가능성을 열어두도록 설계해보기</p>
 </li>
 </ul>
-<h3 id="주차-책임-주도-설계와-mvc패턴">2주차: 책임-주도 설계와 MVC패턴</h3>
-<p>1주차에 계산기의 코드를 잠깐 살펴보면</p>
+<h3 id="책임-주도-설계와-mvc패턴">2: 책임-주도 설계와 MVC패턴</h3>
+<p>앞의 계산기의 코드를 잠깐 살펴보면</p>
 <p>Application)</p>
 <pre><code>public class Application {  
    public static void main(String[] args) {  
@@ -539,4 +544,6 @@ public interface Coffee{
 <p>이처럼 최초의 설계는 구현과정에서 얼마든지 변경될 수 있으며, 최초의 설계는 어디까지나 대략적인 얼개에 불과하다는것을 잊지말자.</p>
 <h3 id="※-인터페이스와-구현-분리는-언제나-중요함">※ 인터페이스와 구현 분리는 언제나 중요함!</h3>
 <p>명세관점에서 객체의 인터페이스간 소통이 실제 훌륭한 설계를 결정하는것이다!</p>
+<h3 id="todo">TODO</h3>
+<p>계산기의 서비스 로직이 너무 초보적인데 후위표기법을 사용하여 설계구조는 그대로 유지하면서 제대로된 계산기 로직으로 변경해보기</p>
 
